@@ -1,6 +1,5 @@
 import streamlit as st
 import plotly.express as px
-from statsmodels.sandbox.distributions.sppatch import expect
 
 from apicall import get_data
 
